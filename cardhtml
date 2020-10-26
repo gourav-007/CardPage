@@ -1,0 +1,23 @@
+<div id="card">
+    <div id="card-inside">
+      <div class="wrap">
+        <p>Hey,</p>
+        <p>Happy Birthday </p>
+        <p>Its time to get happy ! Wishing you all the best on your birthday and everything good in the year ahead.</p>
+        <p>Our Whole Team is Wishing You the Happiest of Birthdays.
+        </p>
+        <p>From, </br> Team HashGags🥳</br>Citi_NAQE_SS_TeamHashGags</p>
+        <p><a href="http://bestanimations.com/Holidays/Birthday/birthdaygifs/birthday-cake-burning-candles-animated-card-gif.gif">NEXT</a></p>
+        <p class="signed">GJ</p>
+        
+      </div>
+    </div>
+
+    <div id="card-front">
+      <div class="wrap">
+        <h1>Happy Birthday!</h1>
+      </div>
+      <button id="open">&gt;</button>
+      <button id="close">&lt;</button>
+    </div>
+  </div>
